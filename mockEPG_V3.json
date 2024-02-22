@@ -62,7 +62,7 @@
                 "genre_id": 165,
                 "slug": "",
                 "regional_type": null,
-                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/Agro_White_Web.svg",
+                "white": "https://upload.wikimedia.org/wikipedia/commons/5/51/AgroMais.png",
                 "channel_number": 8,
                 "programs": [
                     {
@@ -136,7 +136,7 @@
                 "genre_id": 21,
                 "slug": "",
                 "regional_type": null,
-                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/Band_White_Web.svg",
+                "white": "https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png",
                 "channel_number": 2,
                 "programs": [
                     {
@@ -192,7 +192,7 @@
                 "genre_id": 139,
                 "slug": null,
                 "regional_type": null,
-                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/TelecinePipoca_White_Web.svg",
+                "white": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png",
                 "channel_number": 121,
                 "programs": [
                     {
@@ -239,7 +239,7 @@
                 "genre_id": 139,
                 "slug": null,
                 "regional_type": null,
-                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/TelecinePremium_White_Web.svg",
+                "white": "https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png",
                 "channel_number": 117,
                 "programs": [
                     {
@@ -286,7 +286,7 @@
                 "genre_id": 139,
                 "slug": null,
                 "regional_type": null,
-                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/TelecineTouch_White_Web.svg",
+                "white": "https://upload.wikimedia.org/wikipedia/commons/3/36/Telecine_Touch_2.png",
                 "channel_number": 119,
                 "programs": [
                     {
