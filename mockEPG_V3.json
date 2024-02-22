@@ -1,0 +1,333 @@
+{
+    "success": true,
+    "message": "Grade de programa\u00e7\u00e3o retornada com sucesso!",
+    "data": {
+        "categories": [
+            {
+                "genre_id": 16,
+                "name": "Esportes"
+            },
+            {
+                "genre_id": 139,
+                "name": "Filmes e S\u00e9ries"
+            },
+            {
+                "genre_id": 170,
+                "name": "Gastronomia"
+            },
+            {
+                "genre_id": 18,
+                "name": "Infantil"
+            },
+            {
+                "genre_id": 141,
+                "name": "Not\u00edcias"
+            },
+            {
+                "genre_id": 167,
+                "name": "Religiosos"
+            },
+            {
+                "genre_id": 165,
+                "name": "Rurais"
+            },
+            {
+                "genre_id": 21,
+                "name": "TV Aberta"
+            },
+            {
+                "genre_id": 110,
+                "name": "Variedades"
+            }
+        ],
+        "timesRange": [
+            "2024-02-22 11:00",
+            "2024-02-22 11:30",
+            "2024-02-22 12:00",
+            "2024-02-22 12:30",
+            "2024-02-22 13:00",
+            "2024-02-22 13:30",
+            "2024-02-22 14:00",
+            "2024-02-22 14:30",
+            "2024-02-22 15:00",
+            "2024-02-22 15:30",
+            "2024-02-22 16:00",
+            "2024-02-22 16:30",
+            "2024-02-22 17:00"
+        ],
+        "channels": [
+            {
+                "id": 1466,
+                "title": "Agro +",
+                "genre_id": 165,
+                "slug": "",
+                "regional_type": null,
+                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/Agro_White_Web.svg",
+                "channel_number": 8,
+                "programs": [
+                    {
+                        "id": 4171834,
+                        "titleFull": "Agronot\u00edcias",
+                        "description": "Acompanhe o balan\u00e7o da manh\u00e3 do setor agr\u00edcola, com not\u00edcias e an\u00e1lises.",
+                        "tvRating": null,
+                        "time": "10:00",
+                        "duration": "01:30",
+                        "epgGradeSpacing": "00:30"
+                    },
+                    {
+                        "id": 4171835,
+                        "titleFull": "Agro+ Entrevista",
+                        "description": "Veja debates e esclarecimentos sobre o assunto mais comentado da semana, sempre com entrevistas.",
+                        "tvRating": "L",
+                        "time": "11:30",
+                        "duration": "00:30",
+                        "epgGradeSpacing": "00:30"
+                    },
+                    {
+                        "id": 4171836,
+                        "titleFull": "Agro+ Meio Dia",
+                        "description": "Acompanhe a abertura dos mercados, entrevistas e a atualiza\u00e7\u00e3o das principais not\u00edcias da manh\u00e3.",
+                        "tvRating": null,
+                        "time": "12:00",
+                        "duration": "02:00",
+                        "epgGradeSpacing": "02:00"
+                    },
+                    {
+                        "id": 4171837,
+                        "titleFull": "Tur Rural",
+                        "description": "Veja atividades de turismo abordadas como forma de neg\u00f3cio.",
+                        "tvRating": null,
+                        "time": "14:00",
+                        "duration": "00:30",
+                        "epgGradeSpacing": "00:30"
+                    },
+                    {
+                        "id": 4171838,
+                        "titleFull": "Boi Forte",
+                        "description": "Veja a cobertura da cadeira produtiva da carne bovina e entrevistas com especialistas e produtores.",
+                        "tvRating": "L",
+                        "time": "14:30",
+                        "duration": "00:30",
+                        "epgGradeSpacing": "00:30"
+                    },
+                    {
+                        "id": 4171839,
+                        "titleFull": "Agrotarde",
+                        "description": "Saiba tudo sobre o panorama dos mercados, produtos e as tend\u00eancias do agroneg\u00f3cio.",
+                        "tvRating": null,
+                        "time": "15:00",
+                        "duration": "01:50",
+                        "epgGradeSpacing": "01:50"
+                    },
+                    {
+                        "id": 4171840,
+                        "titleFull": "Rep\u00fablica Agro",
+                        "description": "Fique por dentro das principais not\u00edcias e novidades do mundo do agroneg\u00f3cio.",
+                        "tvRating": null,
+                        "time": "16:50",
+                        "duration": "00:10",
+                        "epgGradeSpacing": "00:10"
+                    }
+                ]
+            },
+            {
+                "id": 1460,
+                "title": "Band",
+                "genre_id": 21,
+                "slug": "",
+                "regional_type": null,
+                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/Band_White_Web.svg",
+                "channel_number": 2,
+                "programs": [
+                    {
+                        "id": 4181102,
+                        "titleFull": "Jogo Aberto",
+                        "description": "Acompanhe not\u00edcias, debates di\u00e1rios e tudo o que voc\u00ea precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.",
+                        "tvRating": null,
+                        "time": "11:00",
+                        "duration": "01:00",
+                        "epgGradeSpacing": "01:00"
+                    },
+                    {
+                        "id": 4181103,
+                        "titleFull": "Jogo Aberto - Debate",
+                        "description": "Acompanhe not\u00edcias, debates di\u00e1rios e tudo o que voc\u00ea precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.",
+                        "tvRating": null,
+                        "time": "12:00",
+                        "duration": "01:00",
+                        "epgGradeSpacing": "01:00"
+                    },
+                    {
+                        "id": 4181104,
+                        "titleFull": "Os Donos da Bola",
+                        "description": "Acompanhe o programa de debate sobre o mundo do futebol mais bem-humorado da televis\u00e3o.",
+                        "tvRating": null,
+                        "time": "13:00",
+                        "duration": "01:30",
+                        "epgGradeSpacing": "01:30"
+                    },
+                    {
+                        "id": 4181105,
+                        "titleFull": "Melhor da Tarde com C\u00e1tia Fonseca",
+                        "description": "C\u00e1tia Fonseca comanda um programa que promove dicas de bem-estar, culin\u00e1ria, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.",
+                        "tvRating": "L",
+                        "time": "14:30",
+                        "duration": "01:30",
+                        "epgGradeSpacing": "01:30"
+                    },
+                    {
+                        "id": 4181106,
+                        "titleFull": "Brasil Urgente",
+                        "description": "Acompanhe os principais acontecimentos do dia, com foco na seguran\u00e7a, transporte, sa\u00fade, trabalho e comportamento da popula\u00e7\u00e3o brasileira.",
+                        "tvRating": null,
+                        "time": "16:00",
+                        "duration": "02:50",
+                        "epgGradeSpacing": "01:00"
+                    }
+                ]
+            },
+            {
+                "id": 1597,
+                "title": "TELECINE PIPOCA",
+                "genre_id": 139,
+                "slug": null,
+                "regional_type": null,
+                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/TelecinePipoca_White_Web.svg",
+                "channel_number": 121,
+                "programs": [
+                    {
+                        "id": 4198313,
+                        "titleFull": "O Pre\u00e7o da Verdade",
+                        "description": "Robert Billot, um advogado empresarial, muda de lado quando descobre que a Dupont Company poluiu as \u00e1guas de um rio, causando morte e doen\u00e7a nos moradores locais. \r\n",
+                        "tvRating": "12",
+                        "time": "09:15",
+                        "duration": "02:15",
+                        "epgGradeSpacing": "00:30"
+                    },
+                    {
+                        "id": 4198314,
+                        "titleFull": "Cora\u00e7\u00e3o de Campe\u00e3o",
+                        "description": "Um grupo de remo - que enfrenta dificuldades no esporte e na vida pessoal - tem chance de vencer o campeonato nacional com a chegada de um novo e exigente treinador.",
+                        "tvRating": "12",
+                        "time": "11:30",
+                        "duration": "02:10",
+                        "epgGradeSpacing": "02:10"
+                    },
+                    {
+                        "id": 4198315,
+                        "titleFull": "A Escolha",
+                        "description": "Gabby se muda para uma pequena cidade e se torna vizinha de Travis, um solteiro convicto. Inicialmente complicada, a rela\u00e7\u00e3o entre eles muda e um forte la\u00e7o \u00e9 criado.",
+                        "tvRating": "12",
+                        "time": "13:40",
+                        "duration": "02:00",
+                        "epgGradeSpacing": "02:00"
+                    },
+                    {
+                        "id": 4198316,
+                        "titleFull": "Branca de Neve E O Ca\u00e7ador",
+                        "description": "A terr\u00edvel Rainha Ravenna, em sua obsess\u00e3o por beleza e juventude, quer destruir a Branca de Neve. Para isso, envia o ca\u00e7ador Eric atr\u00e1s dela, mas ele passa a ajudar Branca de Neve contra a rainha.",
+                        "tvRating": "12",
+                        "time": "15:40",
+                        "duration": "02:15",
+                        "epgGradeSpacing": "01:20"
+                    }
+                ]
+            },
+            {
+                "id": 1593,
+                "title": "TELECINE PREMIUM",
+                "genre_id": 139,
+                "slug": null,
+                "regional_type": null,
+                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/TelecinePremium_White_Web.svg",
+                "channel_number": 117,
+                "programs": [
+                    {
+                        "id": 4197522,
+                        "titleFull": "Uma Noite Real",
+                        "description": "Ap\u00f3s o fim da guerra, a futura rainha Elizabeth II e a irm\u00e3 conseguem permiss\u00e3o para sair do Pal\u00e1cio de Buckingham. Fingindo ser an\u00f4nimas, elas vivem altas aventuras.",
+                        "tvRating": "14",
+                        "time": "10:20",
+                        "duration": "01:45",
+                        "epgGradeSpacing": "01:05"
+                    },
+                    {
+                        "id": 4197523,
+                        "titleFull": "Sam & Kate",
+                        "description": "Sam, um jovem que teve que retornar \u00e0 sua cidade natal para cuidar de seu pai doente, se apaixona por Kate, ao mesmo tempo em que seu pai come\u00e7a a se envolver com Tina, m\u00e3e de Kate.",
+                        "tvRating": "14",
+                        "time": "12:05",
+                        "duration": "02:00",
+                        "epgGradeSpacing": "02:00"
+                    },
+                    {
+                        "id": 4197524,
+                        "titleFull": "A Lista do Sr. Malcolm",
+                        "description": "Em Londres, o sr. Malcolm cria uma lista com os atributos que sua noiva deve ter. Ap\u00f3s ser rejeitada, Julia convence sua amiga Selina a ajud\u00e1-la a se vingar do homem.",
+                        "tvRating": "12",
+                        "time": "14:05",
+                        "duration": "02:05",
+                        "epgGradeSpacing": "02:05"
+                    },
+                    {
+                        "id": 4197525,
+                        "titleFull": "O Livro Do Amor",
+                        "description": "O livro de Henry faz sucesso em espanhol. Por\u00e9m, Maria, a tradutora, reescreveu todo o livro. A verdade vem \u00e0 tona e conflitos surgem, mas logo os dois encontram o amor.",
+                        "tvRating": "12",
+                        "time": "16:10",
+                        "duration": "01:55",
+                        "epgGradeSpacing": "00:50"
+                    }
+                ]
+            },
+            {
+                "id": 1595,
+                "title": "TELECINE TOUCH",
+                "genre_id": 139,
+                "slug": null,
+                "regional_type": null,
+                "white": "https:\/\/watchbr-resources.s3.amazonaws.com\/channels\/TelecineTouch_White_Web.svg",
+                "channel_number": 119,
+                "programs": [
+                    {
+                        "id": 4198099,
+                        "titleFull": "Encontro Marcado (1998)",
+                        "description": "Antes de morrer, um empres\u00e1rio faz um acordo com a Morte para viver mais dias. Em troca, a Morte conhece como \u00e9 a vida na Terra, e se apaixona pela filha do milion\u00e1rio.",
+                        "tvRating": "12",
+                        "time": "10:00",
+                        "duration": "03:10",
+                        "epgGradeSpacing": "02:10"
+                    },
+                    {
+                        "id": 4198100,
+                        "titleFull": "O Homem Certo",
+                        "description": "Sara \u00e9 uma escritora de romances que est\u00e1 sofrendo com um bloqueio criativo. Quando ela conhece Godfrey, um homem esquisito e misterioso, sua inspira\u00e7\u00e3o reaparece.\r\n",
+                        "tvRating": "16",
+                        "time": "13:10",
+                        "duration": "01:45",
+                        "epgGradeSpacing": "01:45"
+                    },
+                    {
+                        "id": 4198101,
+                        "titleFull": "Zoe e Tempestade",
+                        "description": "Zoe foi criada num rancho rodeada pela paix\u00e3o da fam\u00edlia: cavalos. Ap\u00f3s um incidente, ela perde os movimentos das pernas, mas o amor pelos animais \u00e9 seu motivo para seguir em frente.",
+                        "tvRating": "12",
+                        "time": "14:55",
+                        "duration": "02:00",
+                        "epgGradeSpacing": "02:00"
+                    },
+                    {
+                        "id": 4198102,
+                        "titleFull": "Cinquenta Tons De Liberdade",
+                        "description": "Anastacia e Christian est\u00e3o num relacionamento est\u00e1vel. No entanto, a vida ainda reserva surpresas para os dois e fantasmas do passado voltam a impedir a paz do casal.",
+                        "tvRating": "16",
+                        "time": "16:55",
+                        "duration": "01:50",
+                        "epgGradeSpacing": "00:05"
+                    }
+                ]
+            }
+        ],
+        "totalPagesPerProgram": 6
+    }
+}
